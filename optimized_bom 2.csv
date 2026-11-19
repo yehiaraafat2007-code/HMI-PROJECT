@@ -1,0 +1,20 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price,Total Price (EGP)
+AVR Controller,ATmega328P,1,Atmel,ATmega328P,https://microohm-eg.com/atmega328p-pu-avr-microcontroller/,220,220
+LED,"Red LED, 5mm",1,NA,LED_5Red,https://microohm-eg.com/led-red-5mm/,0.5,0.5
+Breadboard,MB-102|830 pin holes,1,NA,K3-16-MB830,https://shorturl.at/JicOX,35,35
+Resistor,"220 Ohm, 0.25W",2,NA,N1-24-220R,https://store.fut-electronics.com/products/resistor-200-ohm,1,1
+Switch,Tactile Push Button Switch,1,NA,D12-11,https://store.fut-electronics.com/products/resistor-200-ohm,1.25,1.25
+Jumper Wires,Male-to-Female,Several,NA,K9-15male,https://uge-one.com/product/30cm-male-male-breadboard-jumper-wire-for-arduino-dupont-m-m/,3,3
+potentiometer,rotary potentiometer,1,Na,3590s,https://store.fut-electronics.com/collections/potentiometers/products/rotary-potentiometer-10-kohm,10,10
+temperature sensor ,LM35,1,Na,LM35DZ/NOPB,https://store.fut-electronics.com/products/lm35dz-temperature-sensor-precision-centigrade,55,55
+buzzer,buzzer 5v ,1,Na,TMB12A05,https://store.fut-electronics.com/products/buzzer-5v?_pos=1&_sid=7d6ccbab9&_ss=r,10,10
+LCD,16x2 LCD,1,Na,LCD1602,https://store.fut-electronics.com/products/character-lcd-module-16-char-x2-lines?_pos=3&_sid=2e5d9ee7b&_ss=r,75,75
+Total,,,,,,,410.75
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

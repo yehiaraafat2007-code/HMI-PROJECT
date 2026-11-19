@@ -1,0 +1,14 @@
+,,,,,,,,
+,,,,,,,,
+,Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+,Arduino Uno,Arduino Uno ,1,Arduino,K9-3-rev3-uno,https://uge-one.com/product/arduino-uno-r3-without-cable/,450,450
+,LED,"Red LED, 5mm",1,Na,D4-21-led-red,https://uge-one.com/product/led-red-5mm/,1,1
+,Resistor,"330 Ohm, 0.25W",2,Na,N1-24-330R,https://uge-one.com/product/resistor-1w-carbon-film-5-tolerance-330-ohm/,1,1
+,Switch, Push Button Switch,2,Na,D12-11,https://uge-one.com/product/mini-pushbutton-switch-4p-6x6x8mm-pcb-mount-long-head/,3,3
+,Jumper Wires,Male-to-male,Several,Na,K9-15male,https://uge-one.com/product/breadboard-jumper-wire-for-arduino-male-male-m-m-mm-10cm/,6,6
+,Breadboard ,MB-102|830 pin holes,1,Na,K3-16-MB830,https://uge-one.com/product/breadboard-high-quality-mb-102-830-pin-holes/,45,45
+,potentiometer,rotary potentiometer,1,Na,3590s,https://store.fut-electronics.com/collections/potentiometers/products/rotary-potentiometer-10-kohm,10,10
+,temperature sensor ,LM35,2,Na,LM35DZ/NOPB,https://store.fut-electronics.com/products/lm35dz-temperature-sensor-precision-centigrade,110,110
+,buzzer,buzzer 5v ,1,Na,TMB12A05,https://store.fut-electronics.com/products/buzzer-5v?_pos=1&_sid=7d6ccbab9&_ss=r,10,10
+,LCD,16x2 LCD,1,Na,LCD1602,https://store.fut-electronics.com/products/character-lcd-module-16-char-x2-lines?_pos=3&_sid=2e5d9ee7b&_ss=r,75,75
+,Total ,,,,,,,716
